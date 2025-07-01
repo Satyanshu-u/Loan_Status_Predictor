@@ -39,12 +39,12 @@ This project is a machine learning model that predicts whether a loan applicatio
 
 ## 🧠 Machine Learning Model
 
-- Algorithm: Support Vector Machine (SVM) from sklearn
-- Preprocessing:
+- "Algorithm": Support Vector Machine (SVM) from sklearn
+- "Preprocessing":
   - Dropped rows with missing values
   - Converted categorical variables using replace()
   - Converted Loan_Status to 0 (Not Approved) and 1 (Approved)
-- Evaluation:
+- "Evaluation":
   - Model accuracy printed after training
   - Can be further evaluated using a confusion matrix or cross-validation
 
